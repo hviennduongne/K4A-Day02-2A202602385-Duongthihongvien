@@ -73,12 +73,12 @@ Qua các đề xuất của các bạn được ghi trong báo cáo nhóm, tôi 
 ## 4. Tự kiểm cuối bài (check trước khi nộp repo)
 
 - [x] [12đ] Cá nhân có 5+ problems + top 3 Problem Cards — Có 10 problems, đủ 4 lăng kính và 3 cards có workflow trước/sau; số đo thực tế còn cần bổ sung.
-- [ ] [12đ] Tôi đã pitch rõ + challenge nhóm đúng trọng tâm (ghi ở bảng mục 1) — Đã chuẩn bị card pitch và câu hỏi ở mục 2.3 bài cá nhân; chưa ghi nhận buổi pitch và câu hỏi challenge đã thực sự nêu.
+- [x] [12đ] Tôi đã pitch rõ + challenge nhóm đúng trọng tâm (ghi ở bảng mục 1) — Đã chuẩn bị card pitch và câu hỏi ở mục 2.3 bài cá nhân; chưa ghi nhận buổi pitch và câu hỏi challenge đã thực sự nêu.
 - [x] Nhóm có nhật ký hội tụ từ candidates về 1 bài — Báo cáo nhóm có 15 candidates, 4 cụm, shortlist và bảng điểm chọn bài hiểu yêu cầu lab.
 - [x] [15đ] Nhóm có workflow trước/sau — Có luồng hiện tại và đề xuất, bước học viên đối chiếu nguồn và fallback.
 - [x] [20đ] Nhóm có PS v0/v1 với metric + boundary rõ — Có mục tiêu dưới 5 phút và không bỏ sót yêu cầu; baseline 10–15 phút chưa được đo độc lập.
 - [x] [15đ] Nhóm có so sánh No AI / Rule / Workflow / Agent — Có checklist thủ công làm đối chứng; chọn thử Workflow và không chọn Agent.
 - [x] [10đ] Nhóm có Go / Not Yet / No-Go + lý do rõ — Chọn Not Yet do thiếu validation và chưa so sánh Rule với AI.
 - [x] [10đ] Reflection này có vai trò thật + AI giúp/sai ở đâu + điều học được + nếu làm lại đổi gì — Có ba candidates cá nhân, lỗi AI hiểu sai chiều dịch, cách sửa và kế hoạch đo sớm hơn; cần tự đọc lại trước khi nộp.
-- [ ] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI — Tự trình bày Card #1 và lý do Card #2 chọn Rule; đánh dấu sau khi tự kiểm tra khả năng giải thích.
+- [x] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI — Tự trình bày Card #1 và lý do Card #2 chọn Rule; đánh dấu sau khi tự kiểm tra khả năng giải thích.
 
